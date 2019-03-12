@@ -13,9 +13,14 @@ namespace XMLBasicConsoleApp
             //            ExcelUtility.Run(@"C:\Projects\Git\XMLReview\XMLReview\XMLBasicConsoleApp\bin\Debug\Test.xls");
             //            Sample1.Run4();
             // Sample1.RunXSL();
-            WordTester.CreateWordFile();
+            //WordTester.CreateWordFile();
             // Das ist ein Test....
 
+
+            //OpenXMLWord.CreateWordDoc();
+
+
+            OpenXMLWord.Refresh();
         }
     }
 } 
