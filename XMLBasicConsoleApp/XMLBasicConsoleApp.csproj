@@ -59,6 +59,7 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="cf3.cs" />
     <Compile Include="OpenXMLWord.cs" />
     <Compile Include="WordTester.cs" />
     <Compile Include="ExcelUtility.cs" />
